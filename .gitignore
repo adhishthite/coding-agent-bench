@@ -1,0 +1,9 @@
+/s[0-9]/
+hookcfg/
+results/
+events.jsonl
+*.json.err
+/s[0-9].json
+/s[0-9].err
+__pycache__/
+.DS_Store

@@ -1,0 +1,1 @@
+[TASK-01] Fix the bugs in calc.py so that the tests in test_calc.py pass. Then run python3 test_calc.py to confirm. Do not edit the test file.

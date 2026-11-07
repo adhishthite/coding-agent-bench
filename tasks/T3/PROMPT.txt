@@ -1,0 +1,1 @@
+[TASK-03] Implement realized_pnl_report() in portfolio/report.py as described in SPEC.md. Run python3 -m unittest to confirm. Do not edit the tests.
